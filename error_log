@@ -1,0 +1,12 @@
+[14-Apr-2021 09:15:08 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:17:25 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:19:50 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:23:28 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:25:55 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:30:42 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:33:04 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:38:39 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 67108872 bytes) in /home/skinner/public_html/new/system/database/DB_driver.php on line 703
+[14-Apr-2021 09:46:01 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/skinner/public_html/new/application/controllers/Patient.php on line 1057
+[14-Apr-2021 09:56:09 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/skinner/public_html/new/application/controllers/Patient.php on line 1040
+[14-Apr-2021 10:03:56 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/skinner/public_html/new/application/controllers/Patient.php on line 1040
+[14-Apr-2021 10:20:51 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/skinner/public_html/new/application/controllers/Patient.php on line 1040

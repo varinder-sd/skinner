@@ -1,0 +1,36 @@
+{
+  "addRequest": {
+    "notificationMessage":{
+      "title":"New Request",
+      "message":"You have a new add request"
+    },
+    "displayMessage":{
+      "message": "Request Sent Successfully",
+      "duplicatemessage": "You already sent add request to this user. "
+    }
+  },
+  "cancelRequest": {
+    "displayMessage":{
+      "message": "Request Cancel Successfully"
+    }
+  },
+  "sendMyResponse": {
+    "notificationMessage": {
+      "title": "Congratulations",
+      "message": "You have a new collegue in your list."
+    },
+    "displayMessage":{
+      "message": "We got your response."
+    }
+  },
+  "blockedusers": {
+    "displayMessage":{
+      "success": "List of Blocked Users",
+      "error": "No user in your Blocked List."
+    }
+  },
+  "completefacial": {
+    "success": "Facial completed Successfully",
+  "error": "already completed facial"
+  }
+}
